@@ -1,0 +1,26 @@
+h1
+{
+    background-color:#114455;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    color:whitesmoke
+}
+
+body
+{
+    margin: 0;
+}
+
+nav
+{
+    display: flex;
+    justify-content:space-around;
+    background-color: #114455;
+}
+
+h3
+{
+    color: whitesmoke;
+    margin:10px
+}
