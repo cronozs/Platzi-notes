@@ -1,4 +1,4 @@
-h1
+.page-title
 {
     background-color:#114455;
     margin: 0;
@@ -19,8 +19,14 @@ nav
     background-color: #114455;
 }
 
-h3
+.categories
 {
     color: whitesmoke;
     margin:10px
+}
+
+.Notice
+{
+    justify-content: center;
+    align-items: center;
 }
